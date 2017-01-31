@@ -1,2 +1,2 @@
-## A directory for misellaneous stuff. 
-Nothing really relevant should be here!
+## My Misellaneous Directory. 
+Any random or unnecessary information should be stored here.
