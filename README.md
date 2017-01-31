@@ -1,2 +1,2 @@
 # ELSpring2017
-Template for Spring 2017 Embedded Linux class This is a template for students to clone for their work in the class. You should maintain the directory structure
+This is my (N03297857) Directory. This is where all of my code, documentation, and other information will be stored for my Rasberry Pi 3.
