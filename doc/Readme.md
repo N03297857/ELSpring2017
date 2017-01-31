@@ -1,2 +1,2 @@
-# Documentation Directory. 
-All your documentation should go here.
+# My Personal Documentation Directory. 
+All information and documentation necessary for project will be stored here.
