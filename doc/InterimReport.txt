@@ -1,0 +1,23 @@
+Steven Selementi, David Disgrove, John Padoginog
+April 18, 2017
+Embedded Linux
+Chirakkal Easwaran
+Interim Report
+	The project we were assigned was the Temperature and 
+Humidity Sensor assignment. The assignment will be created and 
+ran on the Raspberry Pi. In this project, we have to read in the
+temperature and humidity of the room, put it on a local database
+and transfer it over to a user friendly web server that is 
+accessible to only us and any authorized personnel. So far, we 
+have written and tested the code for the humidity and temperature 
+sensor and created the code so that we could transfer it to the 
+local database. We now need to test and make possible changes to
+our database code and then create a web server and make it only
+accessible to certain people. So far, all of us have worked on 
+creating and testing the code we are using for the humidity and 
+temperature sensor and John has been setting up the wiring for
+the sensor since he is more knowledgeable about how and where to
+connect everything. Once we create our local database, we will 
+start making the web server so that it is functional and user 
+friendly. After that, we will test it as a whole and be finished 
+with the project
